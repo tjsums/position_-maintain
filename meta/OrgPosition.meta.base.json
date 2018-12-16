@@ -1,0 +1,11 @@
+{
+  "childs": [
+    {
+      "parent_id": "origin_id",
+      "model": "test1:position_assist_data",
+      "view": "multi",
+      "key": "test_multi",
+      "label": "管理团队111"
+    }
+  ]
+}
