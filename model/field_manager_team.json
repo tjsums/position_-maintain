@@ -1,23 +1,23 @@
 [
   {
-  "default_value": null, 
-  "is_blur": false, 
-  "name": "\u59d3\u540d", 
-  "sequence": null, 
-  "mask": null, 
-  "obj_role": null, 
-  "object": "Employee", 
-  "is_list": true, 
-  "precision": null, 
-  "company_id": 8, 
-  "is_info": true, 
-  "length": 11, 
-  "key": "employee_id", 
-  "obj_r": null, 
-  "model_name": "position_assist_data_test4", 
-  "is_required": false, 
-  "type": "integer", 
-  "id": 36, 
-  "description": null
+    "name": "维护人", 
+    "object": "Employee", 
+    "is_list": true, 
+    "is_info": true, 
+    "length": 11, 
+    "key": "employee_id", 
+    "model_name": "position_assist_data_maintain", 
+    "is_required": false, 
+    "type": "integer"
+  },
+  {
+    "name": "维护日志", 
+    "is_list": true, 
+    "is_info": true, 
+    "length": 200, 
+    "key": "description", 
+    "model_name": "position_assist_data_maintain", 
+    "is_required": false, 
+    "type": "string"
   }
 ]
