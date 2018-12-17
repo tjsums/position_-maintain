@@ -6,7 +6,7 @@
     "is_info": true, 
     "length": 11, 
     "key": "employee_id", 
-    "model_name": "position_assist_data_maintain", 
+    "model_name": "position_assist_data_maintain_info", 
     "is_required": false, 
     "type": "integer"
   },
@@ -16,7 +16,7 @@
     "is_info": true, 
     "length": 200, 
     "key": "description", 
-    "model_name": "position_assist_data_maintain", 
+    "model_name": "position_assist_data_maintain_info", 
     "is_required": false, 
     "type": "string"
   }
