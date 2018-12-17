@@ -1,6 +1,6 @@
 {
   "childs": [
-{
+    {
       "parent_id": "origin_id",
       "model": "manager_team:position_assist_data",
       "view": "multi",
@@ -13,5 +13,6 @@
       "label": "维护信息",
       "key": "test_single",
       "view": "single"
-    }  ]
+    }  
+  ]
 }
