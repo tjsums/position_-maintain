@@ -1,7 +1,7 @@
 [
   {
     "name": "管理关系", 
-    "object": "Employee", 
+    "object": null, 
     "is_list": true, 
     "is_info": true, 
     "length": 20, 
