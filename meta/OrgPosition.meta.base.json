@@ -5,7 +5,7 @@
       "model": "manager_team:position_assist_data",
       "view": "multi",
       "key": "test_multi",
-      "label": "管理团队"
+      "label": "中国森"
     },
     {
       "parent_id": "origin_id",
