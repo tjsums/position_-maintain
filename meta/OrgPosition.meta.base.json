@@ -1,8 +1,17 @@
 {
   "childs": [
-    {
+{
+      "parent_id": "origin_id",
+      "model": "manager_team:position_assist_data",
+      "view": "multi",
       "key": "test_multi",
       "label": "管理团队"
-    }
-  ]
+    },
+    {
+      "parent_id": "origin_id",
+      "model": "maintain_info:position_assist_data",
+      "label": "维护信息",
+      "key": "test_single",
+      "view": "single"
+    }  ]
 }
